@@ -3,6 +3,15 @@ entries:
   mani:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-05-30T09:38:36.280382804Z"
+    description: A Helm chart for Kubernetes
+    digest: 18768bb4dad20d42900e98c4bffbf991336cca7e4bf135d89f69b23ab0b6dc1c
+    name: mani
+    urls:
+    - https://github.com/manikandanramdevops/helm/releases/download/mani-0.1.2/mani-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-05-30T09:28:07.538073519Z"
     description: A Helm chart for Kubernetes
     digest: 573c756d04094e38f2502549d856881cf594d47b0400d05197a9dfb95c2e9b63
